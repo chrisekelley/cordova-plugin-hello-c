@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-hello-c",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-hello-c",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "cordova-plugin-hello-c"
+}
